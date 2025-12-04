@@ -1,0 +1,31 @@
+[
+    {
+        "hashIndex": "1",
+        "type": "cars",
+        "url": "https://bmw.com/x6",
+        "title": "BMW X6",
+        "subtext": "Luxury powerful SUV",
+        "img": "images/bmw.png",
+        "keyword": "car,bmw,x6,german,luxury"
+    },
+    {
+        "hashIndex": "2",
+        "type": "ads",
+        "url": "https://ad-example.com"
+    },
+    {
+        "hashIndex": "3",
+        "type": "uads",
+        "url": "https://promo.com",
+        "img": "images/special-ad.png"
+    },
+    {
+        "hashIndex": "4",
+        "type": "doctors",
+        "url": "https://clinic.com/drsmith",
+        "title": "Dr. Adam Smith",
+        "subtext": "Heart specialist with 20 years experience",
+        "img": "images/doctor.png",
+        "keyword": "doctor,heart,cardio,clinic,smith"
+    }
+]
